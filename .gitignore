@@ -1,2 +1,4 @@
 **.sw*
 .DS_store
+ignoreThisFile
+Use this for security or to save memory.
